@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickbouwhuis
+👋 Hi, I’m @nickbouwhuis
 
 There's not much to see here. Maybe more in the future ...
 
